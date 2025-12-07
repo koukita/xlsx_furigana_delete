@@ -1,0 +1,10 @@
+[general]
+name=Excel(xlsx)ふりがな削除
+qgisMinimumVersion=3.40
+description=ExcelのXLSXファイルのふりがなを削除するプラグイン
+version=0.9
+author=koichi kita
+email=kou35tochas@gmail.com
+
+[files]
+icon=icon.png
