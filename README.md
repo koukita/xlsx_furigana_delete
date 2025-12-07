@@ -1,2 +1,4 @@
 # xlsx_furigana_delete
 QGISでExcelのふりがなを削除するプラグイン
+
+インストール用ZIPファイル「xlsx_furigana_delete_x.x.zip」をダウンロードして、プラグインをインストールしてください。
