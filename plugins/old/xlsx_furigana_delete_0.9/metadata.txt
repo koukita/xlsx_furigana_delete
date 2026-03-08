@@ -1,11 +1,9 @@
 [general]
 name=xlsx furigana delete:Excel(xlsx)レイヤのふりがなを削除
 qgisMinimumVersion=3.40
-qgisMaximumVersion=4.99
 description=This is a plugin that removes phonetic readings from Excel XLSX files. It removes phonetic readings from the attribute data of Excel layers added to the layer and updates the data.
-about=ExcelのXLSXファイルのふりがなを削除するプラグインです。レイヤに追加されたExcelレイヤの属性データからふりがなを削除して、データを更新します。
-version=1.0.0
-supportsQt6=True
+about=ExcelのXLSXファイルのふりがなを削除するプラグインです。レイヤに追加されたExcelレイヤの属性データからふりがなを削除して、データを更新します。<br>注意！変換するファイルでテーブル結合やリレーションを設定している場合は解除されます。別のプロジェクトで実行してください。
+version=0.9.2
 author=koichi kita
 email=qgisshitumon@gmail.com
 homepage=https://github.com/koukita/xlsx_furigana_delete
